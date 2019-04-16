@@ -13,8 +13,9 @@
     <!-- TODO (7.3) Note que se define solamente el recyclerview -->
     <android.support.v7.widget.RecyclerView
             android:id="@+id/recyclerview"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Hello World!" />
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Hello World!"
+            android:background="#0000ff"/>
 
 </LinearLayout>
